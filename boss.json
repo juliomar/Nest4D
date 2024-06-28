@@ -1,8 +1,8 @@
 {
-	"name": "sample",
+	"name": "Nest4D",
 	"description": "",
 	"version": "1.0.0",
-	"homepage": "",
+	"homepage": "https://github.com/AndersondaCampo/Nest4D",
 	"mainsrc": "./src",
 	"projects": [],
 	"dependencies": {
